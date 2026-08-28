@@ -19,7 +19,6 @@ A simple web app to manage and track college events. Built with plain HTML, CSS,
 - HTML
 - CSS
 - JavaScript
-- Font Awesome (for icons)
 
 ## Project structure
 
